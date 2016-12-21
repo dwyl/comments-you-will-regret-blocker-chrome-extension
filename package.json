@@ -4,7 +4,7 @@
   "description": "Keep yourself from posting something you will regret!",
   "main": "regretBlocker.js",
   "scripts": {
-    "test": ""
+    "test": "standard"
   },
   "repository": {
     "type": "git",
