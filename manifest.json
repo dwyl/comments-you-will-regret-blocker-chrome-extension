@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "name": "Regretful comment blocker",
+  "description": "Stop yourself from posting something you will regret!",
+  "version": "0.1.0",
+  "icons": {
+    "128": ""
+  },
+  "content_scripts": [{
+    "run_at": "document_end",
+    "matches": [
+      "https://*"
+    ],
+    "css": [
+      ""
+    ],
+    "js": [
+      "regretBlocker.js"
+    ]
+  }]
+}
