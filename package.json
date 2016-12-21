@@ -1,0 +1,25 @@
+{
+  "name": "regret_blocker",
+  "version": "0.1.0",
+  "description": "Keep yourself from posting something you will regret!",
+  "main": "regretBlocker.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwyl/comments-you-will-regret-blocker-chrome-extension.git"
+  },
+  "keywords": [
+    "regret"
+  ],
+  "author": "dwyl",
+  "license": "GPL-2.0+",
+  "bugs": {
+    "url": "https://github.com/dwyl/comments-you-will-regret-blocker-chrome-extension/issues"
+  },
+  "homepage": "https://github.com/dwyl/comments-you-will-regret-blocker-chrome-extension#readme",
+  "devDependencies": {
+    "standard": "*"
+  }
+}
